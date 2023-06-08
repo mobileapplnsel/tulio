@@ -1,0 +1,327 @@
+.wrapper.filterFormWrapper {
+    text-align: left;
+    /* padding-bottom: 30px; */
+    border-bottom: 1px solid #ccc;
+    padding-top: 0px;
+}
+
+.filterForm form#product-filter {
+    margin-top: 20px;
+    display: flex;
+}
+
+.filterForm form#product-filter select.filter-select {
+    padding: 7px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+    margin-right: 30px;
+}
+
+.prodlist .wrapper ul.center-images {
+    flex-wrap: wrap;
+}
+
+.prodlist .wrapper ul.center-images li {
+    width: calc(20% - 24px);
+    margin-right: 0 !important;
+    padding: 0;
+    margin-bottom: 40px;
+}
+
+.tulio-experience .wrapper {
+    width: 89.1%;
+}
+
+div#productlist .wrapper.desktop-image {
+    max-width: 89.1%;
+}
+
+div#productlist .wrapper.desktop-image ul.center-images {
+    column-gap: 30px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row {
+    display: flex;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 {
+    width: 60%;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .productInfo p {
+    font-size: 14px;
+    text-align: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6:first-child {
+    width: 40%;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails * {
+    text-align: left;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6:last-child {
+    padding-left: 20px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .flex-box {
+    display: flex;
+    align-items: center;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails h2 {
+    padding-bottom: 0;
+    margin-right: 20px;
+    line-height: 1.3;
+    font-size: 24px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .productOption span {
+    display: block;
+    margin-top: 0px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .action {
+    position: absolute;
+    right: 0;
+    display: flex;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails {
+    position: relative;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .priceBox {
+    font-size: 24px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .priceBox {
+    margin: 10px 0;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails h2 a {
+    color: #000;
+}
+
+.prodlist .wrapper ul.center-images {
+    flex-wrap: wrap;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row {
+    display: flex;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 {
+    width: 60%;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .productInfo p {
+    font-size: 14px;
+    text-align: left;
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6:first-child {
+    width: 40%;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails * {
+    text-align: left;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6:last-child {
+    padding-left: 20px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .flex-box {
+    display: flex;
+    align-items: center;
+    justify-content: inherit;
+    padding-top: 0;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails h2 {
+    padding-bottom: 0;
+    margin-right: 20px;
+    line-height: 1.3;
+    font-size: 24px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .productOption span {
+    display: block;
+    margin-top: 0px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .action {
+    position: absolute;
+    right: 0;
+    top: 5px
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails {
+    position: relative;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .priceBox {
+    font-size: 24px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .priceBox {
+    margin: 10px 0;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails h2 a {
+    color: #000;
+}
+
+section.fulfillment-center .row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+section.fulfillment-center .row a.getAssiitence {
+    padding: 10px 30px;
+    display: inline-block;
+    color: #666;
+    border: 1px solid;
+}
+
+section.fulfillment-center .row a.createProject {
+    background: #666;
+    color: #fff;
+    display: inline-block;
+    padding: 10px 30px;
+    margin-left: 20px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .action a svg {
+    display: block;
+    width: 18px;
+    height: 18px;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .action a.delete {
+    margin-left: 15px;
+    font-size: 21px;
+    color: #666;
+    font-weight: bold;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails .action a svg path {
+    fill: #666;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box.row .col_6 .productDetails h2 {
+    font-family: Montserrat, sans-serif;
+}
+
+.relative {
+    position: relative;
+}
+
+.relative a.delete {
+    position: absolute;
+    top: 10px;
+    height: 23px;
+    width: 23px;
+    z-index: 9;
+    right: 10px;
+    color: #fff;
+    font-size: 11px;
+    border: 2px solid #000;
+    padding: 4px;
+    background: #000;
+    border-radius: 50%;
+    opacity: 0.8;
+}
+.relative a.delete:hover {
+    opacity: 1;
+    transition-delay: 1ms;
+}
+
+.prodlist .wrapper ul.center-images li .productDetails h2 {
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    padding-bottom: 0;
+    font-family: 'Montserrat';
+}
+
+.prodlist .wrapper ul.center-images li .productDetails h2 span.colorcircle {
+    margin-left: 10px;
+}
+
+.prodlist .wrapper ul.center-images li .productDetails .priceBox span {
+    display: inline-block;
+    font-size: 14px;
+    color: #333;
+}
+
+.prodlist .wrapper ul.center-images li .flex-box {
+    align-items: center;
+}
+
+.prodlist .wrapper ul.center-images li .productDetails h2 a {
+    color: #333;
+}
+
+.deleteAlertContainer {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgb(255 255 255 / 50%);
+    z-index: 99999;
+    display: none;
+}
+
+.deleteAlertContainer .deleteAlert {
+    position: absolute;
+    width: 500px;
+    padding: 30px;
+    border: 1px solid #000;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow: 0 0 10px #ccc;
+    background: #fff;
+    font-size: 14px;
+}
+
+.deleteAlertContainer .deleteAlert .flex-box {
+    display: flex;
+    align-items: center;
+    column-gap: 20px;
+}
+
+.deleteAlertContainer .deleteAlert .flex-box a {
+    display: block;
+    padding: 10px 40px;
+}
+
+.deleteAlertContainer .deleteAlert .flex-box a.confirm {
+    background: #000;
+    color: #fff;
+    border: 1px solid #000;
+}
+
+.deleteAlertContainer .deleteAlert .flex-box a.cancel {
+    border: 1px solid #000;
+    color: #000;
+}
+
+.deleteAlertContainer .deleteAlert p {
+    margin-bottom: 25px;
+    line-height: 1.5;
+}
+
+@media only screen and (max-width:770px){
+    .deleteAlertContainer .deleteAlert {
+        width: 90%;
+    }
+}

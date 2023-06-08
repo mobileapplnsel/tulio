@@ -1,0 +1,185 @@
+[12-Oct-2022 05:38:12 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home1/thinkuhj/public_html/demo.ithink.co/tulio/app/Http/Controllers/Admin/SliderController.php on line 47
+[02-May-2023 09:39:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 115347456 bytes) in /home/solutio9/public_html/celebrity-production/tulio/app/Http/Controllers/HomeController.php on line 381
+[02-May-2023 09:39:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 1
+[02-May-2023 09:43:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 115347456 bytes) in /home/solutio9/public_html/celebrity-production/tulio/app/Http/Controllers/HomeController.php on line 381
+[02-May-2023 09:43:21 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 1
+[02-May-2023 09:47:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 115347456 bytes) in /home/solutio9/public_html/celebrity-production/tulio/app/Http/Controllers/HomeController.php on line 381
+[02-May-2023 09:47:15 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 1
+[02-May-2023 09:48:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 115347456 bytes) in /home/solutio9/public_html/celebrity-production/tulio/app/Http/Controllers/HomeController.php on line 382
+[02-May-2023 09:48:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Log/Logger.php on line 1
+[02-May-2023 09:55:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 113250304 bytes) in /home/solutio9/public_html/celebrity-production/tulio/storage/framework/views/2bd2008314355a232dce9dee5d302353153954e2.php on line 126
+[02-May-2023 09:55:43 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[02-May-2023 09:56:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 113250304 bytes) in /home/solutio9/public_html/celebrity-production/tulio/storage/framework/views/2bd2008314355a232dce9dee5d302353153954e2.php on line 126
+[02-May-2023 09:56:18 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[19-May-2023 11:20:10 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 111153152 bytes) in /home/solutio9/public_html/celebrity-production/tulio/app/Http/Controllers/DesignerController.php on line 80
+[19-May-2023 11:20:11 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/resources/views/errorPage.php on line 51
+[19-May-2023 11:21:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 111153152 bytes) in /home/solutio9/public_html/celebrity-production/tulio/app/Http/Controllers/DesignerController.php on line 80
+[19-May-2023 11:21:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/resources/views/errorPage.php on line 51
+[22-May-2023 05:46:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 111153152 bytes) in /home/solutio9/public_html/celebrity-production/tulio/app/Http/Controllers/DesignerController.php on line 81
+[22-May-2023 05:46:54 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 524288 bytes) in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/ErrorPage/ErrorPageViewModel.php on line 151
+[31-May-2023 09:15:06 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', '/home/solutio9/...', 52)
+#1 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): include()
+#2 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/solutio9/...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(717): array_filter(Array, Object(Closure), 1)
+#7 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(358): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Whoops\Exception\ErrorException))
+#10 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Whoops\Exception\ErrorException))
+#11 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(Whoops\Exception\Inspector))
+#12 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Handler.php(39): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#13 /home/solutio9/public_html/celebrity-production/tulio/vendor/filp/whoops/src/Whoops/Run.php(370): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#14 [internal function]: Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#15 {main}
+  thrown in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[31-May-2023 09:15:06 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', '/home/solutio9/...', 52)
+#1 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): include()
+#2 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/solutio9/...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(717): array_filter(Array, Object(Closure), 1)
+#7 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(358): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#10 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#11 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(NunoMaduro\Collision\Adapters\Laravel\Inspector))
+#12 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Handler.php(39): NunoMaduro\Collision\Writer->write(Object(NunoMaduro\Collision\Adapters\Laravel\Inspector))
+#13 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php(72): NunoMaduro\Collision\Handler->handle()
+#14 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(185): NunoMaduro\Collision\Adapters\Laravel\ExceptionHandler->renderForConsole(Object(Symfony\Component\Console\Output\ConsoleOutput), Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#15 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(171): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#16 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(209): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#17 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#18 {main}
+  thrown in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[31-May-2023 09:15:21 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', '/home/solutio9/...', 52)
+#1 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): include()
+#2 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/solutio9/...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(717): array_filter(Array, Object(Closure), 1)
+#7 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(358): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Whoops\Exception\ErrorException))
+#10 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Whoops\Exception\ErrorException))
+#11 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(Whoops\Exception\Inspector))
+#12 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Handler.php(39): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#13 /home/solutio9/public_html/celebrity-production/tulio/vendor/filp/whoops/src/Whoops/Run.php(370): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#14 [internal function]: Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#15 {main}
+  thrown in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[31-May-2023 09:15:21 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', '/home/solutio9/...', 52)
+#1 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): include()
+#2 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/solutio9/...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(717): array_filter(Array, Object(Closure), 1)
+#7 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(358): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#10 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#11 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(NunoMaduro\Collision\Adapters\Laravel\Inspector))
+#12 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Handler.php(39): NunoMaduro\Collision\Writer->write(Object(NunoMaduro\Collision\Adapters\Laravel\Inspector))
+#13 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php(72): NunoMaduro\Collision\Handler->handle()
+#14 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(185): NunoMaduro\Collision\Adapters\Laravel\ExceptionHandler->renderForConsole(Object(Symfony\Component\Console\Output\ConsoleOutput), Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#15 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(171): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#16 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(209): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#17 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#18 {main}
+  thrown in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[31-May-2023 09:15:48 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', '/home/solutio9/...', 52)
+#1 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): include()
+#2 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/solutio9/...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(717): array_filter(Array, Object(Closure), 1)
+#7 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(358): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Whoops\Exception\ErrorException))
+#10 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Whoops\Exception\ErrorException))
+#11 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(Whoops\Exception\Inspector))
+#12 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Handler.php(39): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#13 /home/solutio9/public_html/celebrity-production/tulio/vendor/filp/whoops/src/Whoops/Run.php(370): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#14 [internal function]: Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#15 {main}
+  thrown in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[31-May-2023 09:15:48 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', '/home/solutio9/...', 52)
+#1 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): include()
+#2 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/solutio9/...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(717): array_filter(Array, Object(Closure), 1)
+#7 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(358): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#10 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#11 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(NunoMaduro\Collision\Adapters\Laravel\Inspector))
+#12 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Handler.php(39): NunoMaduro\Collision\Writer->write(Object(NunoMaduro\Collision\Adapters\Laravel\Inspector))
+#13 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php(72): NunoMaduro\Collision\Handler->handle()
+#14 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(185): NunoMaduro\Collision\Adapters\Laravel\ExceptionHandler->renderForConsole(Object(Symfony\Component\Console\Output\ConsoleOutput), Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#15 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(171): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#16 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(209): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#17 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#18 {main}
+  thrown in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[01-Jun-2023 12:20:42 UTC] PHP Fatal error:  Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /home/solutio9/public_html/celebrity-production/tulio/routes/web.php on line 41
+[05-Jun-2023 07:24:09 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', '/home/solutio9/...', 52)
+#1 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): include()
+#2 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/solutio9/...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(717): array_filter(Array, Object(Closure), 1)
+#7 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(358): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Whoops\Exception\ErrorException))
+#10 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Whoops\Exception\ErrorException))
+#11 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(Whoops\Exception\Inspector))
+#12 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Handler.php(39): NunoMaduro\Collision\Writer->write(Object(Whoops\Exception\Inspector))
+#13 /home/solutio9/public_html/celebrity-production/tulio/vendor/filp/whoops/src/Whoops/Run.php(370): NunoMaduro\Collision\Handler->handle(Object(Whoops\Exception\ErrorException))
+#14 [internal function]: Whoops\Run->handleException(Object(Whoops\Exception\ErrorException))
+#15 {main}
+  thrown in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[05-Jun-2023 07:24:09 UTC] PHP Fatal error:  Uncaught Whoops\Exception\ErrorException: Using ${var} in strings is deprecated, use {$var} instead in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php:52
+Stack trace:
+#0 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): Whoops\Run->handleError(8192, 'Using ${var} in...', '/home/solutio9/...', 52)
+#1 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(571): include()
+#2 /home/solutio9/public_html/celebrity-production/tulio/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/solutio9/...')
+#3 [internal function]: Composer\Autoload\ClassLoader->loadClass('Facade\\Ignition...')
+#4 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(50): class_implements('Facade\\Ignition...')
+#5 [internal function]: Facade\Ignition\SolutionProviders\SolutionProviderRepository->Facade\Ignition\SolutionProviders\{closure}('Facade\\Ignition...', 10)
+#6 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Arr.php(717): array_filter(Array, Object(Closure), 1)
+#7 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(358): Illuminate\Support\Arr::where(Array, Object(Closure))
+#8 /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/SolutionProviderRepository.php(49): Illuminate\Support\Collection->filter(Object(Closure))
+#9 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/IgnitionSolutionsRepository.php(36): Facade\Ignition\SolutionProviders\SolutionProviderRepository->getSolutionsForThrowable(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#10 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(244): NunoMaduro\Collision\Adapters\Laravel\IgnitionSolutionsRepository->getFromThrowable(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#11 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Writer.php(123): NunoMaduro\Collision\Writer->renderSolution(Object(NunoMaduro\Collision\Adapters\Laravel\Inspector))
+#12 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Handler.php(39): NunoMaduro\Collision\Writer->write(Object(NunoMaduro\Collision\Adapters\Laravel\Inspector))
+#13 /home/solutio9/public_html/celebrity-production/tulio/vendor/nunomaduro/collision/src/Adapters/Laravel/ExceptionHandler.php(72): NunoMaduro\Collision\Handler->handle()
+#14 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(185): NunoMaduro\Collision\Adapters\Laravel\ExceptionHandler->renderForConsole(Object(Symfony\Component\Console\Output\ConsoleOutput), Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#15 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(171): Illuminate\Foundation\Bootstrap\HandleExceptions->renderForConsole(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#16 /home/solutio9/public_html/celebrity-production/tulio/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(209): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\ErrorHandler\Error\FatalError))
+#17 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleShutdown()
+#18 {main}
+  thrown in /home/solutio9/public_html/celebrity-production/tulio/vendor/facade/ignition/src/SolutionProviders/MergeConflictSolutionProvider.php on line 52
+[06-Jun-2023 07:22:42 UTC] PHP Fatal error:  Unparenthesized `a ? b : c ? d : e` is not supported. Use either `(a ? b : c) ? d : e` or `a ? b : (c ? d : e)` in /home/solutio9/public_html/celebrity-production/tulio/storage/framework/views/fcd52c5865516eb247f0350b5ca47e2d915c1693.php on line 84

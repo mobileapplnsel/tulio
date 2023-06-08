@@ -1,0 +1,7 @@
+ul.projectList li {display: table-row;margin: 30px auto;}
+
+ul.projectList {width: 600px;margin: 100px auto;display: table;border-collapse: collapse;border: 0;}
+
+ul.projectList li span {display: table-cell;padding: 15px;border: 1px solid #ccc;text-transform: uppercase;}
+
+ul.projectList li span.pName {font-weight: 600;}

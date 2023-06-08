@@ -1,0 +1,211 @@
+ul.pagination {
+    display: flex;
+    justify-content: center !important;
+    margin: 0 auto 50px;
+    font-size: 14px;
+}
+.page-link {
+    position: relative;
+    display: block;
+    padding: .5rem .75rem;
+    margin-left: -1px;
+    line-height: 1.25;
+    color: #000;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+  }
+  .page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #666;
+    border-color: #666;
+  }
+  
+  .pagination {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding-left: 0;
+    list-style: none;
+    border-radius: .25rem;
+  }
+  
+.sortingdiv {
+    display: flex;
+    align-items: center;
+}
+
+.sortingdiv span.changeColumn img {
+    display: block;
+    margin-right: 20px;
+    cursor: pointer;
+}
+
+.sortingdiv span.changeColumn img:first-child {
+    margin-left: 0;
+}
+
+div#productlist {
+    width: 100%;
+    max-width: 89.1%;
+    margin: 0 auto;
+}
+
+.tulio-experience .wrapper ul.categoryImage li .content {
+    margin-left: 0;
+    margin-right: 50px;
+}
+
+.tulio-experience .wrapper ul {
+    padding-top: 30px;
+}
+
+span.changeColumn {
+    display: flex;
+}
+
+.column2 ul.center-images li {
+    width: 50%;
+    padding: 0px 17px;
+    margin: 0% 0%;
+}
+
+
+.column4 ul.center-images li {
+    width: 25%;
+    padding: 0 25px;
+}
+
+.column3 ul.center-images li {
+    width: 33.33%;
+    padding: 0 25px;
+}
+
+.prodlist .wrapper ul.center-images {
+    margin: 0 -25px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+
+.prodlist .wrapper ul.center-images li {
+    margin-bottom: 50px;
+    box-sizing: border-box;
+    margin-right: 0 !important;
+}
+
+.prodlist .wrapper ul.center-images li .productDetails {
+    margin-top: 5px;
+    cursor: pointer;
+}
+
+.prodlist .wrapper ul.center-images li .productDetails .flex-box {
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    color: #333;
+}
+
+.tulio-experience .wrapper.filterFormWrapper {
+    text-align: left;
+    padding-bottom: 30px;
+    border-bottom: 1px solid #ccc;
+    padding-top: 80px;
+}
+
+.tulio-experience .wrapper.filterFormWrapper .filterForm {
+    margin-top: 20px;
+    display: flex;
+}
+
+.tulio-experience .wrapper.filterFormWrapper .filterForm select, .sortby-select {
+    border: none;
+    margin-right: 30px;
+    display: block;
+    font-family: 'Montserrat';
+    border-radius: 0px;
+    color: #333;
+    height: 32px;
+    text-indent: 0.01px;
+    text-overflow: "";
+    cursor: pointer;
+    background-color: white;
+}
+.sortby-select{
+    margin-left: auto;
+}
+.clear-all {
+    color: #333;
+    font-size: 13.3333px;
+    margin-top: auto;
+    margin-bottom: auto;
+    line-height: 32px;
+}
+section.tulio-experience .wrapper ul li {
+    margin-bottom: 0;
+}
+
+.prodlist #productlist .wrapper {
+    width: 100%;
+}
+
+ul.pagination {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 auto 50px;
+    font-size: 14px;
+}
+
+ul.pagination a {
+    color: #000;
+}
+
+.tulio-experience .wrapper ul li .content {
+    margin-left: 0;
+}
+
+.tulio-experience .wrapper ul li .content select {
+    padding: 5px 10px;
+}
+
+.categoryBreadcumb {display: flex;column-gap: 14px;font-size: 12px;}
+
+.categoryBreadcumb ol.breadcrumb {display: flex;column-gap: 10px;}
+
+.categoryBreadcumb ol.breadcrumb a {color: #666;}
+.categoryBreadcumb ol.breadcrumb li.breadcrumb-item:not(:last-child):after {content: "/";margin-left: 10px;}
+.categoryBreadcumb ol.breadcrumb {display: flex;column-gap: 10px;}
+
+.sticky-filter{
+    padding: 0px;
+    position: fixed;
+    z-index: 50;
+    background: white;
+    width: 100% !important;
+    top: 90px;
+    padding: 0% 5.5%!important;
+    
+}
+
+.colorcircle {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    display: inline-block;
+    float: left;
+    margin-bottom: 10px;
+}
+
+@media only screen and (max-width:770px){
+    .tulio-experience .wrapper ul {
+    padding-top: 0px !important;
+}
+
+    html .prodlist .wrapper ul.center-images li .productDetails .flex-box {
+        display: flex;
+    }
+    
+    .sticky-filter{
+        top: 4%;
+    }
+}

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+#cleaning up ugly URLs / filtered URLs
+
+Disallow: /products/thumb/
+Disallow: /?countries=*
+Disallow: /?currencies=*
+Disallow: /?googtrans=*
+Disallow: /product/test*
+Dissalow: /?googtrans$
+
+sitemap: https://tulio.design/sitemap.xml

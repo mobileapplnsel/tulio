@@ -1,0 +1,280 @@
+@extends('layouts.app')
+
+
+
+@section('content')
+<section class="banner">
+    <div class="banner-image-container position-absolute desktop-image-container">
+        <img class="banner-image" src="{{asset('assets/process-page-banner-bg.jpg')}}" alt="Banner Image" />
+    </div>
+    <div class="banner-image-container position-absolute mobile-image-container">
+        <img class="banner-image-mobile" src="{{asset('assets/mobile-process-page-banner-bg.png')}}" alt="" />
+    </div>
+    <div class="wrapper" style="">
+        <div class="content" style="">
+            <h2 id="bannerheading" style="text-align:left">An experience designed <br /> to delight you.</h2>
+        </div>
+    </div>
+</section>
+<!-- Tulio Inspires / Experience-->
+<section class="tulio-experience">
+    <!-- Working with end-->
+
+    <div class="wrapper">
+        <span class="cursive-title">Tulio Experience</span>
+        <p class="sub-title">
+            An immersive experience to ensure perfect product and service delivery without hassles </p>
+    </div>
+
+    <div class="wrapper">
+        <ul>
+            <li>
+                <div class="image-container">
+                    <img loading="lazy" src="{{asset('assets/project-brief.png')}}" alt="" class="" style="width:630px" />
+                </div>
+                <div class="content">
+                    <p class="step"><span class="bold">Step 1</span>Project Brief</p>
+                    <p class="text">Understanding the project, meeting the family, understanding their demographics and
+                        taste profile from the architect/interior designer and/or the ultimate homeowner is the very
+                        foundation on which our designs are built.</p>
+                </div>
+            </li>
+            <li>
+                <div class="image-container">
+                    <img loading="lazy" src="{{asset('assets/site-visit.png')}}" alt="" class="" style="width:630px" />
+                </div>
+                <div class="content">
+                    <p class="step"><span class="bold">Step 2</span>Site Visit</p>
+                    <p class="text">Our project managers & Designers visit the site for measurements and technical
+                        evaluation. Details like sizes of pelmets and coves, electric points in case of motorization,
+                        direction of sunlight and overall aesthetics is taken into account before product selection.</p>
+                </div>
+            </li>
+            <li>
+                <div class="image-container">
+                    <img loading="lazy" src="{{asset('assets/product-selection.png')}}" alt="" class="" style="width:630px" />
+                </div>
+                <div class="content">
+                    <p class="step"><span class="bold">Step 3</span>Product Selection and Customization</p>
+                    <p class="text">We suggest products to achieve the best combination of design and functionality.
+                        These are then customised based on the specifics of the interiors. We also offer a full bespoke
+                        service wherein designs are specifically created for a space which requires added
+                        personalisation.</p>
+                </div>
+            </li>
+            <li>
+                <div class="image-container">
+                    <img loading="lazy" src="{{asset('assets/manufacturing.png')}}" alt="" class="" style="width:630px" />
+                </div>
+                <div class="content">
+                    <p class="step"><span class="bold">Step 4</span>Manufacturing</p>
+                    <p class="text">Combining traditional crafts with modern manufacturing is what we do best. Whether
+                        it’s handcrafted zardosi techniques or modern machine embroideries, we seamlessly coalesce them
+                        into your curtains and blinds. We have in place set standards for manufacturing which ensure a
+                        well formed and perfectly finished product.</p>
+                </div>
+            </li>
+            <li>
+                <div class="image-container">
+                    <img loading="lazy" src="{{asset('assets/installation.png')}}" alt="" class="" style="width:630px" />
+                </div>
+                <div class="content">
+                    <p class="step"><span class="bold">Step 5</span>Installation</p>
+                    <p class="text">Installations for curtain hardware like rails, rods and motors as well as curtains
+                        and blinds are done at appropriate times based on how the site is progressing. Curtains and
+                        blinds are hung, ironed and bandaged, beds are dressed, all in time for the house warming.</p>
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+<section class="fulfillment-center teams">
+
+
+    <div class="wrapper">
+        <div class="teams">
+            <div class="container">
+                <h2>The team</h2>
+                <p>Get to know the team that will be with you every step of the way</p>
+                <div class="row">
+                    <div class="col span_4">
+                        <h4>It is a long established fact that</h4>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, </p>
+                    </div>
+                    <div class="col span_4">
+                        <h4>It is a long established fact that</h4>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, using Lorem Ipsum is that it has a more-or-less normal distribution of letters </p>
+                    </div>
+                    <div class="col span_4">
+                        <h4>It is a long established fact that</h4>
+                        <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters,  </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="two-cta-section">
+    <div class="cta-section-container">
+        <div class="section-one">
+            <img loading="lazy" src="{{asset('assets/care-cta.png')}}" alt="" />
+        </div>
+
+        <div class="wrapper">
+            <h2>Experience our Products</h2>
+            <a href="{{route('product-list')}}" class="cta-button">View signature products</a>
+        </div>
+    </div>
+    <div class="cta-section-container">
+        <div class="section-two">
+            <img loading="lazy" src="{{asset('assets/care-cta2.png')}}" alt="" />
+        </div>
+        <div class="wrapper">
+            <h2>Let’s Start Your Project Together</h2>
+            <a href="{{route('contact')}}" class="cta-button">Get In Touch With Us</a>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<section class="fulfillment-center processPage">
+
+
+    <div class="wrapper">
+   
+        <!-- <h2>Fulfillment Center</h2>
+        <p>
+            Our fulfillment centers are open to architects and interior designers as well as their clients to see a
+            project from conceptualisation to installation. With relationship managers, designers and project managers
+            with a team of technicians, these centers help us deliver what we promise.
+        </p> -->
+        <ul class="center-address">
+            <li>
+                <h2>Gurugram</h2>
+                <div class="address">
+                    Plot number - 230,<br />Udyog Vihar, Phase IV, Sector 18, Gurugram-122015, Haryana, India
+                </div>
+                <div class="contact-details">
+                    <div class="contact-1">
+                        <span>Email: info@tulips.design</span>
+                        <span>Tel: 9225555564</span>
+                    </div>
+                    <div class="contact-2">
+                        <span>10:00 AM - 07:00</span>
+                        <span>PM Monday - Saturday</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <h2>Pune</h2>
+                <div class="address">
+                    ICC Trade Tower A,<br />Unit No. 204, 2nd Floor, Next to Pavillion Mall, Senapati Bapat
+                    Marg,<br />Pune-411016 , Maharashtra, India
+                </div>
+                <div class="contact-details">
+                    <div class="contact-1">
+                        <span>Email: info@tulips.design</span>
+                        <span>Tel: 9225555564</span>
+                    </div>
+                    <div class="contact-2">
+                        <span>10:00 AM - 08:00</span> <span>PM Monday - Saturday</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <h2>Bangalore</h2>
+                <div class="address">
+                    No. 7, First Floor<br />Shilton Heights, Papanna Street, Off. St. Marks Road, Near Ram,
+                    Bengaluru-560001, Karnataka, India
+                </div>
+                <div class="contact-details">
+                    <div class="contact-1">
+                        <span>Email: info@tulips.design</span>
+                        <span>Tel: 9225555564</span>
+                    </div>
+                    <div class="contact-2">
+                        <span>10:00 AM - 07:00</span> <span>PM Monday - Saturday</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <h2>Hyderabad</h2>
+                <div class="address">
+                    3rd Floor,<br />Oyster Oasis Complex, Opp. The Hindu, Somajiguda, Hyderabad-500016, Telangana, India
+                </div>
+                <div class="contact-details">
+                    <div class="contact-1">
+                        <span>Email: info@tulips.design</span>
+                        <span>Tel: 9225555564</span>
+                    </div>
+                    <div class="contact-2">
+                        <span>10:00 AM - 07:00</span> <span>PM Monday - Saturday</span>
+                    </div>
+                </div>
+            </li>
+            <li>
+                <h2>Dubai</h2>
+                <div class="address">
+                    Office 1011,<br />The Onyx Tower 1,The Greens, Sheikh Zayed Road, Dubai, PO Box No. 231400, UAE
+                </div>
+                <div class="contact-details">
+                    <div class="contact-1">
+                        <span>Email: info@tulips.design</span>
+                        <span>Tel: 9225555564</span>
+                    </div>
+                    <div class="contact-2">
+                        <span>10:00 AM - 07:00</span> <span>PM Monday - Saturday</span>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </div>
+</section>
+
+
+<style>
+    html .fulfillment-center .wrapper ul.center-address .contact-details .contact-1, html .fulfillment-center .wrapper ul.center-address .contact-details .contact-2 {
+        display: block;
+        width: 100%;
+    }
+    .fulfillment-center .wrapper ul.center-address .address{
+        width:100%;
+    }
+
+    .fulfillment-center .wrapper ul.center-address .contact-details {
+        display: block;
+    }
+
+    .fulfillment-center .wrapper ul.center-address li {
+        padding: 60px 10px 0;
+    }
+
+    .fulfillment-center .wrapper ul.center-address h2 {
+        padding-bottom: 10px;
+    }
+    .teamsp {text-align: center;}
+
+    .fulfillment-center .wrapper .teams p {text-align: center;}
+
+    .fulfillment-center .wrapper .teams h2, .fulfillment-center .wrapper .teams h4 {text-align: center;}
+
+    .fulfillment-center .wrapper .teams .span_4 {width: 33.33%;}
+
+    .fulfillment-center .wrapper .teams .row {display: flex;column-gap: 100px;margin-top: 50px;}
+
+    .fulfillment-center .wrapper .teams h4 {margin-bottom: 14px;font-weight: 600;}
+    section.fulfillment-center.teams, section.fulfillment-center.processPage {padding-top: 0px !important;}
+
+    section.fulfillment-center.processPage .wrapper ul.center-address h2, section.fulfillment-center.processPage .wrapper ul.center-address *, section.fulfillment-center.processPage .wrapper ul.center-address div div:first-of-type {text-align: center;}
+
+    html .fulfillment-center .wrapper ul.center-address .contact-details .contact-1, html .fulfillment-center .wrapper ul.center-address .contact-details .contact-2 {text-align: center;}
+
+    section.fulfillment-center.processPage .wrapper ul.center-address h2 {font-size: 28px;}
+    section.banner .content {right: auto;}
+
+    section.banner .wrapper {width: 88.9%;}
+</style>
+@endsection

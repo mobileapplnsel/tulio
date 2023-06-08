@@ -1,0 +1,138 @@
+section.banner .content.blck-bg {
+    right: auto;
+    left: 0;
+    padding: 0 100px;
+    height: 90px;
+    background: #0006;
+}
+
+section.banner .content.blck-bg h2.cursive-title {
+    padding-bottom: 0;
+    margin-top: -40px;
+}
+
+.center {
+    text-align: center;
+}
+
+.wrapper h3.center {
+    text-align: center;
+    margin: 50px 0 30px;
+}
+
+.flex-box {
+    display: flex;
+    column-gap: 30px;
+}
+
+section.foundersec {
+    margin: 50px 0;
+}
+
+.flex-box .col {
+    width: 50%;
+}
+
+.flex-box img {
+    max-width: 100%;
+}
+
+.right-align {
+    text-align: right;
+}
+
+section.about-tulio p {
+    font-size: 14px;
+    line-height: 1.5;
+    margin-bottom: 30px;
+    color: #666666;
+}
+
+section.foundersec p {
+    font-size: 14px;
+    margin-bottom: 15px;
+    line-height: 1.5;
+    color: #666666;
+}
+
+section.foundersec h3 {
+    margin-bottom: 15px;
+    font-size: 150%;
+    font-family: EB Garamond, serif;
+}
+
+section.foundersec .row.flex-box {
+    align-items: center;
+}
+
+section.about-tulio a.button {
+    background: #ccc;
+    padding: 10px 30px;
+    color: #000;
+    display: inline-block;
+    margin: 30px 0;
+}
+
+.fulfillment-center .wrapper ul.center-address {
+    margin-top: 50px;
+}
+
+.fulfillment-center .wrapper ul.center-address h2 {
+    text-align: center;
+}
+
+.fulfillment-center .wrapper p a {
+    color: #666;
+}
+
+html section.fulfillment-center {
+    padding-top: 50px !important;
+}
+
+.fulfillment-center .wrapper p a {
+    color: #666;
+}
+
+.fulfillment-center .wrapper ul.center-address .contact-details {
+    display: block;
+    text-align: center;
+}
+
+.fulfillment-center .wrapper ul.center-address .contact-details .contact-1,
+.fulfillment-center .wrapper ul.center-address .contact-details .contact-2 {
+    display: block;
+    width: 80%;
+    text-align: center;
+}
+
+.fulfillment-center .wrapper ul.center-address .address {
+    text-align: center;
+    display: block;;
+}
+section.foundersec .row.flex-box .col.span_6:last-child {
+    padding: 20px;
+}
+@media only screen and (max-width:770px){
+    section.about-tulio h2 {font-size: 24px;padding-bottom: 10px;}
+
+    section.about-tulio .wrapper h3.center {margin: 30px 0 15px;}
+
+    section.about-tulio .wrapper .row.flex-box {column-gap: 14px;}
+
+    section.about-tulio .wrapper {width: 100%;padding: 30px 14px 14px;}
+
+    section.foundersec .row.flex-box {column-gap: 0;row-gap: 20px;flex-wrap: wrap;}
+
+    section.foundersec .row.flex-box .col.span_6 {width: 100%;}
+
+    section.foundersec .row.flex-box .col.span_6:last-child {padding: 0 14px;}
+
+    section.foundersec {margin-bottom: 0;}
+
+    html section.fulfillment-center {padding-top: 0 !important;}
+
+    html section.fulfillment-center h2 {font-size: 24px;padding-bottom: 10px;}
+    section.banner .content.blck-bg {
+        height: 65px;
+    }
+}
