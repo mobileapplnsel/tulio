@@ -1,609 +1,671 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<url>
-  <loc>https://tulio.design/</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://tulio.design/contact</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/process</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/designer</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/curtains</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/blinds</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/rugs</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/faq</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/privacy-policy</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/terms-and-conditions</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/about-us</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/tulio-care</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/five-palm-jumeirah-dubai</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/the-ritz-carlton-pune</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/fraser-suites-doha</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/the-oberoi-new-delhi</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/le-meridien-mahabaleshwar-resort-spa</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/taj-exotica-resort-spa-maldives</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/the-niraamaya-retreats-kerala</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/park-hyatt-hyderabad</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/hotelier/sarova-nairobi-kenya</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/login</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/register</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/curtains?page=2</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m03-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m05-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m06-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m07-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m11-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m14-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m15-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m18-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m19-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m20-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m21-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m22-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/rb01</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/hb01</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/hb01-1</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/rugs?page=2</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru001</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru002</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru003</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru004</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru005</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru006</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru007</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru008</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru009</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru010</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru011</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru012</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product?page=2</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/sp42-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/sp40-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s48-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s44-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s37-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s36-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s35-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s34-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s32-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s30-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://tulio.design/password/reset</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/curtains?page=1</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/curtains?page=3</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m31-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m32-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m16-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m41-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m43-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m23-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m34-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/m52-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/mp26-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/mp27-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/mp28-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/mp29-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/solid-curtains</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/sheer-curtains</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/solid-roman-blinds</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/rugs?page=1</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru013</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru014</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru015</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru016</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru017</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru018</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru019</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru020</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru021</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/ru022</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product?page=1</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product?page=3</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s26-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s23-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s19-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s14-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s13-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s10-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s09-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s08-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s07-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s06-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s04-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s03-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://tulio.design/curtains?page=4</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://tulio.design/solid-curtains?page=2</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://tulio.design/sheer-curtains?page=2</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s01-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product/s02-cr</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product?page=4</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://tulio.design/solid-curtains?page=1</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://tulio.design/sheer-curtains?page=1</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://tulio.design/sheer-curtains?page=3</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product?page=5</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product?page=6</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://tulio.design/product?page=7</loc>
-  <lastmod>2022-12-27T06:54:29+00:00</lastmod>
-  <priority>0.21</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8"?><!--Generated by Screaming Frog SEO Spider 18.5-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://tulio.design/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/ambience/classic-curtains</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/rugs/all</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/ambience/traditional-blinds</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/terms-and-conditions</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/tulio-care</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m07-bl</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/rugs/ambience/classic-rugs</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/ambience/classic-blinds</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/sheer-curtains</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/ambience/traditional-curtains</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/designer</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/sheer-curtains</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/privacy-policy</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/sheer-roman-blinds</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/ambience/modern-contemporary-blinds</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/rugs/ambience/traditional-rugs</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m22-cr</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/ambience/modern-contemporary-curtains</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/solid-curtains</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/process</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/solid-curtains</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru022</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m18-bl</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/faq</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m15-cr</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/contact</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/solid-roman-blinds</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/solid-roman-blinds</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/rugs/ambience/modern-contemporary-rugs</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/all</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s13-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/all</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/mp27-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/solid-roman-blinds/all</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m23-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/jumeirah-malakiya-villas-dubai</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/five-jumeirah-village-dubai</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/courtyard-by-marriott-pune</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s36-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/solid-curtains/floral-botanical-solid-curtains</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/le-meridien-mahabaleshwar-resort-spa</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/taj-exotica-resort-spa-maldives</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s19-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/the-niraamaya-retreats-kerala</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/mp27-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/itc-guntur-india</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s01-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/marriott-suites-pune</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/sheer-roman-blinds/floral-botanical-sheer-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/mp28-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s19-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s14-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/solid-roman-blinds/geometric-solid-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s01-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/solid-roman-blinds/border-solid-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m11-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/solid-curtains/all</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/dual-crewel-embroidered-geometric-border-curtain</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s48-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/the-ritz-carlton-pune</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s06-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m06-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru002</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/modern-geometric-pattern-curtain</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m16-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/register</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s32-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/hand-tufted-rug</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru014</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/mp28-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru011</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru012</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru013</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/solid-roman-blinds/floral-botanical-solid-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru017</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m11-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/sheer-curtains/floral-botanical-sheer-curtains</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru018</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru015</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/centara-mirage-dubai</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru016</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s26-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s37-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru019</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/jumeirah-dar-al-masyaf-dubai</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/solid-curtains/geometric-solid-curtains</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/mp29-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s44-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/novotel-pune</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/sheer-curtains/printed-sheer-curtains</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/kempinski-seychelles-resort-seychelles</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s10-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/sheer-curtains/all</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/sheer-roman-blinds/geometric-sheer-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/the-oberoi-new-delhi</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/itc-narmada-ahmedabad</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m03-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s04-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m49-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/one-zaabeel</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/sheer-curtains/embroidered-sheer-curtains</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m15-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/jumeirah-mina-a-salam-dubai</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m21-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/sheer-roman-blinds/embroidered-sheer-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/sarova-nairobi-kenya</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m32-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s09-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s04-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/la-quinta-dubai</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m14-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/minimalistic-ladder-embroidery-curtain</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s34-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m20-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru020</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru021</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/fraser-suites-doha</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s09-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s03-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/sp42-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/login</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s23-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m31-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/park-hyatt-hyderabad</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/curtains/sheer-curtains/geometric-sheer-curtains</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/sheer-roman-blinds/printed-sheer-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m19-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/five-palm-jumeirah-dubai</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/sp40-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/sheraton-grand-pune</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s30-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/mp38-bl</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/solid-roman-blinds/printed-solid-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s02-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/hyatt-pune-1</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m18-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s35-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/hotelier/vivanta-pune</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m41-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/hand-embroidered-curtains</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s07-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/mp26-cr</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/blinds/solid-roman-blinds/embroidered-solid-blinds</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru003</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru007</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru006</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru004</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru005</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru008</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru009</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m16-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/ru010</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m32-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m43-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m19-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m31-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m20-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m52-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m34-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m21-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/m14-cr</loc>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://tulio.design/product/s08-cr</loc>
+    <priority>0.7</priority>
+  </url>
 </urlset>

@@ -19,7 +19,7 @@
 
     gtag('config', 'G-94MTJMYXL8');
     </script> --}}
-        
+    <?php $randno = rand(10, 600); ?>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="facebook-domain-verification" content="y90yuxbctj8jej75r0h4sy0m8y2r8b" />
@@ -95,10 +95,10 @@
     <link rel="stylesheet" href="{{asset('styles/vendors/owl-carousel/owl.theme.default.min.css')}}"/>
     <!-- Main CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
-    <link rel="stylesheet" href="{{asset('styles/main.css')}}"/>
-    <link rel="stylesheet" href="{{asset('styles/loggedin.css')}}"/>
-    <link rel="stylesheet" href="{{asset('css/intlTelInput.css')}}">  
-    <script src="{{asset('js/intlTelInput.min.js')}}"></script>
+    <link rel="stylesheet" href="{{asset('styles/main.css?id='.$randno.'')}}"/>
+    <link rel="stylesheet" href="{{asset('styles/loggedin.css?id='.$randno.'')}}"/>
+    <link rel="stylesheet" href="{{asset('css/intlTelInput.css?id='.$randno.'')}}">  
+    <script src="{{asset('js/intlTelInput.min.js?id='.$randno.'')}}"></script>
     
     <title>{{ $title ?? "Project Management Tool for Architects & Interior Designers | Tulio" }}</title>
     <meta name="description" content="{{ $description ?? 'A soft furnishings selection and project management tool for Architects & Interior Designers which helps product selection, price discovery, project board creation and client servicing'}}">
@@ -1191,8 +1191,10 @@ if(document.getElementById("phone4")){
  </script>
 
     @yield('script')
+ 
     <!--<script src="https://celebrity-production.solutionsfinder.co.uk/tulio/vendor/livewire/livewire.js?id=de3fca26689cb5a39af4" data-turbo-eval="false" data-turbolinks-eval="false"></script>-->
     @livewireScripts
+    
 </body>
 
 </html>

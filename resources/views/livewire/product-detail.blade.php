@@ -1,7 +1,3 @@
-
-
-
-
 <div class="row flex-row">
     <div class="col-md-6">
         <div class="product-gallery product-gallery-vertical">
@@ -50,7 +46,7 @@
                                 <source media="(max-width: 1023px)" srcset="{{$product->angle_image_thumb}}">
                                 <source media="(min-width: 1024px)" srcset="{{$product->angle_image}}">
                                 <img loading="lazy" id="product-zoom3" src="{{$product->angle_image}}"
-                                                    data-zoom-image="" alt="{{(isset($img_alt)) ? $img_alt : 'product image'}}" class="" >
+                                data-zoom-image="" alt="{{(isset($img_alt)) ? $img_alt : 'product image'}}" class="" >
                             </picture>
                         
                         </div>
